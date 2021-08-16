@@ -1,0 +1,19 @@
+.ContainerNavBar {
+  width: 100vw;
+  height: 5vh;
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.ContainerNavBar button {
+  border: 0;
+  background-color: transparent;
+  color: rgb(253, 253, 253);
+
+  cursor: pointer;
+  margin: 10% 10%;
+}

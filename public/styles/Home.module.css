@@ -1,0 +1,6 @@
+.container {
+  background: linear-gradient(150deg, rgb(162, 103, 201) 15%, #6d2185);
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
